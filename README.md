@@ -22,9 +22,9 @@ App desenvolvido como atividade acadêmica para praticar Flutter, animações e 
 
 --- 
 ### Print das Telas 
-![Print da Tela Home](telaHome.png)
-![Print da Tela dos Funcionário](telaFuncionarios.png)
-![Print da Aba de Opçoes](abaOpcoes.png)
+![Print da Tela Home](telaHome.png width="250")
+![Print da Tela dos Funcionário](telaFuncionarios.png width="250")
+![Print da Aba de Opçoes](abaOpcoes.png width="250")
 
 --- 
 
