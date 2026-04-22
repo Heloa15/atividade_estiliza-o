@@ -20,6 +20,14 @@ App desenvolvido como atividade acadêmica para praticar Flutter, animações e 
 
 ---
 
+--- 
+### Print das Telas 
+![Print da Tela Home](assets/telaHome.png)
+![Print da Tela dos Funcionário](assets/telaFuncionarios.png)
+![Print da Aba de Opçoes](assets/abaOpcoes.png)
+
+--- 
+
 ### 📊 Estrutura do JSON
 
 ```json
