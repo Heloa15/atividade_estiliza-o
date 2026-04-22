@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Mariana Souza",
+    "cargo": "Atendente",
+    "salario": 1850.50,
+    "dataContratacao": "2022-03-15",
+    "avatar": "https://img.freepik.com/vetores-premium/design-de-avatar-de-pessoa_24877-38132.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Pereira",
+    "cargo": "Lavador",
+    "salario": 2100.00,
+    "dataContratacao": "2021-11-02",
+    "avatar": "https://img.freepik.com/vetores-premium/design-de-avatar-de-pessoa_24877-38131.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Fernanda Lima",
+    "cargo": "Passadeira",
+    "salario": 1950.75,
+    "dataContratacao": "2023-01-20",
+    "avatar": "https://img.freepik.com/vetores-premium/design-de-avatar-de-pessoa_24877-38136.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "João Batista",
+    "cargo": "Gerente",
+    "salario": 3500.00,
+    "dataContratacao": "2020-08-10",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/5556/5556520.png"
+  },
+  {
+    "id": 5,
+    "nome": "Aline Rocha",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1700.00,
+    "dataContratacao": "2024-02-05",
+    "avatar": "https://thumbs.dreamstime.com/b/linda-menina-com-%C3%B3culos-avatar-%C3%ADcone-us%C3%A9rpico-do-estilo-desenho-animado-de-jovem-mulher-ilustra%C3%A7%C3%A3o-vetorial-210709595.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Ricardo Alves",
+    "cargo": "Motorista",
+    "salario": 2200.30,
+    "dataContratacao": "2022-07-18",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTql1L2nDunnwamDIr29dCtgnF9TMIVm9hjgw&s"
+  },
+  {
+    "id": 7,
+    "nome": "Patrícia Gomes",
+    "cargo": "Atendente",
+    "salario": 1820.00,
+    "dataContratacao": "2023-06-12",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8p4AWPdBeLW9RUcVSz_KpRloGnfc7nYa_wg&s"
+  },
+  {
+    "id": 8,
+    "nome": "Eduardo Martins",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2800.90,
+    "dataContratacao": "2021-04-25",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/4113/4113045.png"
+  },
+  {
+    "id": 9,
+    "nome": "Juliana Freitas",
+    "cargo": "Passadeira",
+    "salario": 2000.00,
+    "dataContratacao": "2022-09-30",
+    "avatar": "https://img.freepik.com/vetores-premium/avatar-de-jovens-mulheres-sorridentes-personagem-de-pessoas-de-vetor-3d_263670-1590.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Ribeiro",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1750.60,
+    "dataContratacao": "2024-05-14",
+    "avatar": "https://www.shutterstock.com/image-vector/faceless-male-avatar-representation-isolated-600nw-2725681783.jpg"
+  }
+]
